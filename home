@@ -1,5 +1,5 @@
 
-
+<!doctype html>
 <html>
     <head>
         <script src="scripts.js"></script></style>
@@ -8,7 +8,7 @@
 
         <title>Hi my name is Kat</title>
 
-        <!-- Load external CSS styles -->
+       
         
          
          
@@ -22,7 +22,7 @@
         <h1></h1>
         <body> Welcome to my website where I am going to write about all the things I like to make</body>
         
-        <!-- Load external JavaScript -->
+    
         
         
 
