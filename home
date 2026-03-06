@@ -1,4 +1,4 @@
-<!doctype html>
+
 
 <html>
     <head>
@@ -11,7 +11,7 @@
         <!-- Load external CSS styles -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
         <style>
-         body,h1,h2,h3,h4,h5,h6{font-family: Roboto, sans-serif;}>
+         
          .w3-Roboto {
   font-family: Roboto, cursive;
 }
