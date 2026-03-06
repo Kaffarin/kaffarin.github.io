@@ -33,8 +33,8 @@
     <body> <p>Here's a list of stuff I've been doing:
         <ul class="w3-ul">
 
-        <li><i class=" 	 	fas fa-socks"></i> <a href="https://kaffarin.github.io/knitting">Here's my knitting!</li></a>
-        <li><i class=" 	fas fa-paw"></i> <a href="https://katswebsite.w3spaces.com/perfectrat">Here's a rat I made in Blender</li></a>
+        <li><i class=" 	 	fas fa-socks"></i> <a href="https://kaffarin.github.io/knitting">Here's my knitting!</a>
+        <li><i class=" 	fas fa-paw"></i> <a href="https://katswebsite.w3spaces.com/perfectrat">Here's a rat I made in Blender</a>
 
         </ul></p>
 
