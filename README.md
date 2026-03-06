@@ -18,17 +18,13 @@
     
 
         <h1>Hi my name is Kat</h1>
-        <body> Welcome to my website where I am going to write about all the things I like to make</body>
+        <body> Welcome to my website where I am going to write about all the things I like to make
         
         <!-- Load external JavaScript -->
         
         
 </head>
-<body><html>
 
-<i class=" 	fas fa-exclamation"></i>
-        
-    </body></html>
 
     <body> <p>Here's a list of stuff I've been doing:
         <ul class="w3-ul">
