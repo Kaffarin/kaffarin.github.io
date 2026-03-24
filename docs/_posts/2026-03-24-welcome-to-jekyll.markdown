@@ -4,26 +4,36 @@ title:  "Welcome to Jekyll!"
 date:   2026-03-24 18:01:31 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<html>
+    <head>
+        <script src="scripts.js"></script>
+        <script src="https://kit.fontawesome.com/f9f586bfd3.js" crossorigin="anonymous"></script>
+        <meta charset="utf-8">
 
-Jekyll requires blog post files to be named according to the following format:
+        <title>Blank template</title>
 
-`YEAR-MONTH-DAY-title.MARKUP`
+        <!-- Load external CSS styles -->
+       
+        
+      
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+    </head>
 
-Jekyll also offers powerful support for code snippets:
+    
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+        <h1>Hi my name is Kat</h1>
+        <body> Welcome to my website where I am going to write about all the things I like to make
+        
+        <!-- Load external JavaScript -->
+        
+        
+</head>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+    <body> <p>Here's a list of stuff I've been doing:
+        <ul class="w3-ul">
+
+        <li><i class=" 	 	fas fa-socks"></i> <a href="https://kaffarin.github.io/knitting">Here's my knitting!</a>
+        <li><i class=" 	fas fa-paw"></i> <a href="https://katswebsite.w3spaces.com/perfectrat">Here's a rat I made in Blender</a>
+
+    
