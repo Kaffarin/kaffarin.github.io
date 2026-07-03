@@ -1,6 +1,6 @@
 ---
 layout: page
-title: knitting
+title: bayeux tapestry jumper
 permalink: /bayeux-tapestry-jumper/
 ---
 
