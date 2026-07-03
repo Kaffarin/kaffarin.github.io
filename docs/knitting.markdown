@@ -11,6 +11,6 @@ This jumper is one of the biggest projects I've ever worked on. It's a vintage p
 
 It's super heavy and extremely warm so I can only really wear it in the winter, but I did wear it for a trip to see a replica of the Bayeux Tapestry which is on display at <a href="https://www.readingmuseum.org.uk/">Reading Museum</a> which is a great exhibition, highly recommend it. And I will absolutely be wearing it to go and see the real thing when it comes to the British Museum in September 2026.
 
-<a href="https://kaffarin.github.io/bayeux-tapestry-jumper/">See more photos here</a>
+<a href="https://kaffarin.github.io/bayeux-tapestry-jumper/">See more photos here<ul class="w3-ul"><li><i class=" 	 	fas fa-face-grin"></i> </a>
 
 
