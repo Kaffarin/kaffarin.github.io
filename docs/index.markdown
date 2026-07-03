@@ -32,7 +32,7 @@
         <ul class="w3-ul">
 
         <li><i class=" 	 	fas fa-socks"></i> <a href="https://kaffarin.github.io/knitting">Here's my knitting!</a>
-        <li><i class=" 	fas fa-paw"></i> <a href="https://katswebsite.w3spaces.com/perfectrat">Here's a rat I made in Blender</a>
+        <li><i class=" 	fas fa-paw"></i> <a href="https://kaffarin.github.io/perfect-rat/">Here's a rat I made in Blender</a>
 
         <body>Or if you like you can take a look through my posts:</body>
 
