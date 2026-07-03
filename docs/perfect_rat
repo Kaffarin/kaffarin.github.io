@@ -1,3 +1,5 @@
-layout	page
-title	perfect rat
-permalink	/perfect-rat/
+---
+layout: page
+title: perfect rat
+permalink: /perfect-rat/
+---
