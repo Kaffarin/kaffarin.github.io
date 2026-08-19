@@ -8,7 +8,7 @@ Hi there
 
 I am a highly experienced administrator who has worked in programme management for several years. 
 
-I have organised international conferences in areas such as games studies and medival studies.
+I have organised international conferences in areas such as games studies and medieval studies, both hybrid and online.
 
 I am an excellent communicator and highly experienced at community building.
 
